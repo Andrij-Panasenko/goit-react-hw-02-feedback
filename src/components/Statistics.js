@@ -1,4 +1,4 @@
-import { Title } from "./FeedbackForm.styled";
+import { Title } from "./Section.styled";
 import { Value } from "./Statistics.styled";
 
 export const Statistics = ({ title, value, total, precentage }) => {
